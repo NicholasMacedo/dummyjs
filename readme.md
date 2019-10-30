@@ -12,7 +12,7 @@ _Latest documentation and examples can be found at:_
 
 ## Usage
 
-Add this to your HTML page:
+Add this to your HTML page to include the JS Library:
 
 `<script src="https://dummyjs.com/dummy.js"></script>`
 
